@@ -38,10 +38,6 @@ I focus on creating scalable and reliable data solutions that solve business pro
 
 ### 📁 Portfolio & Projects
 
-This section is intended for examples of my work (code, configuration examples, project descriptions).
-
-*(You can add links to your repositories or project descriptions here later)*
-
 ---
 
 ### 📜 Certifications
