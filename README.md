@@ -2,7 +2,6 @@
 
 ### Инженер данных · SAP BW/4HANA · Backend-разработчик (Go)
 
-**Город:** Барнаул, Россия
 **Telegram:** [@shiryaev_87](https://t.me/shiryaev_87)
 **LinkedIn:** [konstantin-shiryaev](https://www.linkedin.com/in/konstantin-shiryaev-b8306870/)
 
